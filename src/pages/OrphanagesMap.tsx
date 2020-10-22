@@ -30,7 +30,7 @@ const [longitude, setLongitude] = useState(0);
   function CarregaMap(){
     return(
     <Map
-    center={[-8.0398072, -34.961686]}
+    center={[latitude, longitude]}
     zoom={15}
     style={{width:'100%', height:'100%'}}
     >
