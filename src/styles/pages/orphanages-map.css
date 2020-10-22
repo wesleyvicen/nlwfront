@@ -41,6 +41,7 @@
 }
 
 #page-map .leaflet-container { 
+    z-index: -5;
 }
 
 #page-map .create-orphanage { 
