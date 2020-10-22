@@ -40,6 +40,9 @@
     font-weight: 800;
 }
 
+#page-map .leaflet-container { 
+}
+
 #page-map .create-orphanage { 
     position: absolute;
 
